@@ -1,7 +1,7 @@
 {
   "name": "glitnir-technical-analytics",
   "version": "1.0.0",
-  "description": "",
+  "description": "Technical analytics module that implement a good framework! To do technical analytics! A lot of the methods that are implemented in pin script are implemented here",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
   "files": [
@@ -9,7 +9,7 @@
   ],
   "scripts": {
     "build": "npx tsc",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
